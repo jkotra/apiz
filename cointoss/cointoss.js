@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     res.send("Hello world!");
 });
 
-app.get('/coinflip', (req, res) => {
+app.get('/cointoss', (req, res) => {
     let rng = Math.random();
 
     let response = {};
