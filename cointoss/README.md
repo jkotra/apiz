@@ -1,5 +1,5 @@
 ```
-GET localhost:8000/coinflip
+GET localhost:8000/cointoss
 ```
 
 ### Example response
